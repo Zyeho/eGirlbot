@@ -29,19 +29,3 @@ class Client(commands.Bot):
 TOKEN = os.getenv("DISCORD_API_TOKEN")
 client = Client()
 client.run(TOKEN)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
