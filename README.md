@@ -1,2 +1,2 @@
 # eGirlbot
-Bot for discord developed with python.
+Bot for discord developed with Python.
